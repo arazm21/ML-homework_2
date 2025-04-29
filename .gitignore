@@ -1,0 +1,4 @@
+.venv
+.idea
+ieee-fraud-detection
+columns_to_keep.pkl

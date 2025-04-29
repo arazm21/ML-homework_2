@@ -1,0 +1,15 @@
+kaggle
+jupyter
+matplotlib
+dagshub
+scikit-learn
+numpy
+pandas
+mlflow
+imblearn
+seaborn
+joblib
+category_encoders
+imbalanced-learn
+scikit-optimize
+xgboost
