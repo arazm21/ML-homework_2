@@ -2,3 +2,9 @@
 .idea
 ieee-fraud-detection
 columns_to_keep.pkl
+submission_log.csv
+submission_rf.csv
+submission_xgb.csv
+confusion_matrix.png
+logreg_confusion_matrix.png
+logreg_roc_curve.png

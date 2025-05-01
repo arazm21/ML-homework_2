@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/alex/Documents/university_work/ML/ML-homework_2/mlruns/571432687568945493
+creation_time: 1746047927592
+experiment_id: '571432687568945493'
+last_update_time: 1746047927592
+lifecycle_stage: active
+name: XGBoost_Pipeline_BayesSearchCV
