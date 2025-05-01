@@ -46,3 +46,4 @@ I changed regularisaiton numbers, subsampling, max_depth, learning_rate.
 
 i do not have separate runs, instead all of the information is in 1 single run, together. I did it because that's how i did it originally and did not have time to change it, however the info is there. (it might not be in xgboost, but you will find it in the other two experiments) 
 in sumary, the end results were quite decent, even if the model went towards overfitting, the f1 score ended up around 0.77 on validation set, while roc-auc is 0.97
+I had to sacrifice some accuracy for not being overfitted and vice versa - there are a few runs logged, any one can be chosen depending on what metric you prefer.
